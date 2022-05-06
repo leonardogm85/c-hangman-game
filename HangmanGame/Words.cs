@@ -1,4 +1,4 @@
-﻿namespace Jogo.Forca
+﻿namespace HangmanGame
 {
     /// <summary>
     /// Gerencia as palavras que fazem parte do jogo.

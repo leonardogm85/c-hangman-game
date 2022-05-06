@@ -1,4 +1,4 @@
-﻿namespace Jogo.Forca
+﻿namespace HangmanGame
 {
     /// <summary>
     /// Representa o jogo.
