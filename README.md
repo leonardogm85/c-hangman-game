@@ -1,2 +1,2 @@
-# jogo-forca
-Jogo da Forca
+# c-hangman-game
+Hangman Game
